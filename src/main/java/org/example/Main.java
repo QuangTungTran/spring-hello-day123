@@ -5,8 +5,6 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
 
-        System.out.printf("Hello and welcome!");
-        System.out.printf("Hello and tung tran !");
         System.out.printf("Điện Ngọc Cố lên!");
         System.out.printf("Hello and tung tran !");
 
