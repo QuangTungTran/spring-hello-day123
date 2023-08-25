@@ -5,8 +5,8 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
 
-        System.out.printf("Điện Ngọc Cố lên!");
-        System.out.printf("Hello and tung tran !");
+        System.out.printf("Dien Ngoc mai dinh!");
+        System.out.printf("Hello and Tung Tran !");
 
 
         for (int i = 1; i <= 5; i++)
